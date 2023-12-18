@@ -18,4 +18,5 @@ nodo3->nodo2;
 nodo3->nodo4;
 nodo4->nodo3;
 nodo4->nodonull2;
+}nodo4->nodonull2;
 }

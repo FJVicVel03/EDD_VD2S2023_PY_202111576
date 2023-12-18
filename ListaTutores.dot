@@ -4,8 +4,13 @@ node[shape = record];
 nodo0[label="Nombre: Luis Daniel Castellanos Betancourt ,\nCarnet: 202103105"];
 nodo1[label="Nombre: Kewin Maslovy Patzan Tzun ,\nCarnet: 202103206"];
 nodo2[label="Nombre: Jhonatan Alexander Aguilar Reyes ,\nCarnet: 202106003"];
-nodo3[label="Nombre: Luis Antonio Castro Padilla ,\nCarnet: 202109750"];
 nodo0->nodo1;
+nodo1->nodo0;
+nodo1->nodo2;
+nodo2->nodo1;
+nodo2->nodo0 
+nodo0 -> nodo2
+}
 nodo1->nodo0;
 nodo1->nodo2;
 nodo2->nodo1;
@@ -13,4 +18,5 @@ nodo2->nodo3;
 nodo3->nodo2;
 nodo3->nodo0 
 nodo0 -> nodo3
+}do0 -> nodo3
 }
