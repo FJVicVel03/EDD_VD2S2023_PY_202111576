@@ -1,5 +1,5 @@
-##Proyecto único, Estructura de Datos, Vacaciones 2do semestre
-###Manual de Usuario
+## Proyecto único, Estructura de Datos, Vacaciones 2do semestre
+### Manual de Usuario
 
 Explicación de uso para el proyecto único del curso Estructura de Datos.
 1. De primera instancia, se iniciará sesión en modo administrador para poder cargar los archivos necesarios.

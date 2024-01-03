@@ -1,22 +1,43 @@
 digraph lista{
 rankdir=LR;
 node[shape = record];
-nodo0[label="Nombre: Luis Daniel Castellanos Betancourt ,\nCarnet: 202103105"];
-nodo1[label="Nombre: Kewin Maslovy Patzan Tzun ,\nCarnet: 202103206"];
-nodo2[label="Nombre: Jhonatan Alexander Aguilar Reyes ,\nCarnet: 202106003"];
+nodo0[label="Nombre: Alan Misael Carpio García ,\nCarnet: 202000869"];
+nodo1[label="Nombre: Luis Rene Yaquian Recinos ,\nCarnet: 202001471"];
+nodo2[label="Nombre: Fernando Misael Morales Ortiz ,\nCarnet: 202001950"];
+nodo3[label="Nombre: Daniel Alexander Barrera Figueroa ,\nCarnet: 202004783"];
+nodo4[label="Nombre: Francisco Javier Cetino Mendez ,\nCarnet: 202006716"];
+nodo5[label="Nombre: Ana Lucia Fletes Ordoñez ,\nCarnet: 202010003"];
+nodo6[label="Nombre: Allan Estuardo Sitán Bor ,\nCarnet: 202010046"];
+nodo7[label="Nombre: Edwin Aman Sam Pum ,\nCarnet: 202010307"];
+nodo8[label="Nombre: Velveth Nayely Pérez Yas ,\nCarnet: 202010810"];
+nodo9[label="Nombre: Tobias Rafael Zamora Santos ,\nCarnet: 202010828"];
+nodo10[label="Nombre: Wilson Adonías Carrera Aguilar ,\nCarnet: 202010915"];
+nodo11[label="Nombre: Juan Gabriel Ramirez Gramajo ,\nCarnet: 202100087"];
+nodo12[label="Nombre: Samuel Isaí Muñoz Pereira ,\nCarnet: 202100119"];
 nodo0->nodo1;
-nodo1->nodo0;
-nodo1->nodo2;
-nodo2->nodo1;
-nodo2->nodo0 
-nodo0 -> nodo2
-}
 nodo1->nodo0;
 nodo1->nodo2;
 nodo2->nodo1;
 nodo2->nodo3;
 nodo3->nodo2;
-nodo3->nodo0 
-nodo0 -> nodo3
-}do0 -> nodo3
+nodo3->nodo4;
+nodo4->nodo3;
+nodo4->nodo5;
+nodo5->nodo4;
+nodo5->nodo6;
+nodo6->nodo5;
+nodo6->nodo7;
+nodo7->nodo6;
+nodo7->nodo8;
+nodo8->nodo7;
+nodo8->nodo9;
+nodo9->nodo8;
+nodo9->nodo10;
+nodo10->nodo9;
+nodo10->nodo11;
+nodo11->nodo10;
+nodo11->nodo12;
+nodo12->nodo11;
+nodo12->nodo0 
+nodo0 -> nodo12
 }

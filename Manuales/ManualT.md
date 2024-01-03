@@ -1,5 +1,5 @@
-##Proyecto único, Estructura de Datos, Vacaciones 2do semestre
-###Manual Técnico
+## Proyecto único, Estructura de Datos, Vacaciones 2do semestre
+### Manual Técnico
 
 Explicación del código de la aplicación realizada en consola para el proyecto único del curso Estructura de Datos.
 
