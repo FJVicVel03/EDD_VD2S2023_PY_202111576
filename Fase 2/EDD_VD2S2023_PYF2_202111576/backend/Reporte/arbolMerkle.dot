@@ -1,0 +1,27 @@
+digraph arbol { node [shape=box];"66e118c0c001fb9c5c6b" [dir=back];
+"66e118c0c001fb9c5c6b" -> "ee9a72e9b158d8526bda" [dir=back];
+"ee9a72e9b158d8526bda" -> "03-01-2024::19:34:36
+Aceptado
+Productos Manualidades Mady.pdf
+202001471" [dir=back];
+ "66e118c0c001fb9c5c6b" -> "b2ec8a13d1eb6ec17ac0" [dir=back];
+"b2ec8a13d1eb6ec17ac0" -> "03-01-2024::19:34:36
+1
+nulo
+0" [dir=back];
+ {rank=same"ee9a72e9b158d8526bda" -> "b2ec8a13d1eb6ec17ac0" [style=invis]}; 
+}0f6c12342786cbc3974" -> "a903040981b126c9f4dd" [style=invis]}; 
+"6572455f23bcfaa70c46" -> "657e19b29ac571be9da1" [dir=back];
+"657e19b29ac571be9da1" -> "472bb564e521ac93f00c" [dir=back];
+"472bb564e521ac93f00c" -> "03-01-2024::14:59:41
+Aceptado
+Productos Manualidades Mady.pdf
+202000869" [dir=back];
+ "657e19b29ac571be9da1" -> "24d82a61cf233e3b8a80" [dir=back];
+"24d82a61cf233e3b8a80" -> "03-01-2024::14:59:42
+3
+nulo
+0" [dir=back];
+ {rank=same"472bb564e521ac93f00c" -> "24d82a61cf233e3b8a80" [style=invis]}; 
+{rank=same"2618b670137941f9b3e2" -> "657e19b29ac571be9da1" [style=invis]}; 
+}
